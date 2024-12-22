@@ -123,3 +123,9 @@ Herencia Múltiple con la interfaz Promocionable:
     - Control del inventario, mostrando productos disponibles antes y después de las compras.
     - Manejo de excepciones cuando un producto no está disponible o el cliente no está registrado.
 
+
+
+
+## Explicación del código
+
+<a href="https://vimeo.com/1041457847" rel="some text">![trabajo_final](https://github.com/user-attachments/assets/9db2c736-1c5f-4b89-9116-466b7842ea83)</a>
